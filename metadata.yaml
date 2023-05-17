@@ -1,0 +1,28 @@
+_repo: Old-times-b-A-picture-of-social-life-at-the-end-of-the-eighteenth-century_70769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ashton, John
+    birthdate: 1834
+    deathdate: 1911
+    gutenberg_agent_id: '9006'
+    url: http://www.gutenberg.org/2009/agents/9006
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70769'
+language: en
+pgterms:marc905: 20140510090558ashton
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: Chris Curnow, Christine P. Travers and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bScribner & Welford, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Old times : $b A picture of social life at the end of the eighteenth century'
+url: http://www.gutenberg.org/ebooks/70769
