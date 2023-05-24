@@ -1,5 +1,8 @@
 _repo: Old-times-b-A-picture-of-social-life-at-the-end-of-the-eighteenth-century_70769
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70769-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Ashton, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9006'
     url: http://www.gutenberg.org/2009/agents/9006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70769#Old-times-b-A-picture-of-social-life-at-the-end-of-the-eighteenth-century
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70769'
